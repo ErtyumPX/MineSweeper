@@ -2,9 +2,14 @@
 
 Good old Mine Sweeper game in python, made with Tkinter, using object-oriented programming.
 
+
+---
+
 <p align="center">
   <img src="https://github.com/ErtyumPX/MineSweeper/blob/main/image_game.jpeg">
 </p>
+
+---
 
 
 Algorithm:
