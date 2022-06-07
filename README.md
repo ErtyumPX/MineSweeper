@@ -2,10 +2,8 @@
 
 Good old Mine Sweeper game in python, made with Tkinter, using object-oriented programming.
 
-![Image of the Game](https://github.com/ErtyumPX/MineSweeper/blob/main/image_game.jpeg)
-
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://github.com/ErtyumPX/MineSweeper/blob/main/image_game.jpeg)">
 </p>
 
 
