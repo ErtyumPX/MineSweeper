@@ -2,6 +2,9 @@
 
 Good old Mine Sweeper game in python, made with Tkinter, using object-oriented programming.
 
+![Image of the Game](https://github.com/ErtyumPX/MineSweeper]/blob/image_game.jpeg?raw=true)
+
+
 Algorithm:
 
 The game starts when the user clicks any node (which is a tkinter.Button object) of the board.
