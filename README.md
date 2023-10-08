@@ -5,7 +5,7 @@ Good old Mine Sweeper game in python, made with Tkinter.
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/ErtyumPX/MineSweeper/blob/main/image_game.jpeg">
 </p>
 
