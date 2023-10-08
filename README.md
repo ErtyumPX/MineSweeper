@@ -1,6 +1,6 @@
 # MineSweeper
 
-Good old Mine Sweeper game in python, made with Tkinter, using object-oriented programming.
+Good old Mine Sweeper game in python, made with Tkinter.
 
 
 ---
@@ -14,7 +14,7 @@ Good old Mine Sweeper game in python, made with Tkinter, using object-oriented p
 
 Algorithm:
 
-The game starts when the user clicks any node (which is a tkinter.Button object) of the board.
+The game starts when the user clicks any node of the board.
 
 Then algorithm creates the mine field according to the first node user clicked in such a way that there will not be any mine near the first node.
 
